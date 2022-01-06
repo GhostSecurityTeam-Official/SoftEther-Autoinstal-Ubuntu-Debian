@@ -1,10 +1,10 @@
-# SoftEther Auto Install By Anonghost720 for Ubuntu/Debian
+# SoftEther Auto Install By UniDoX for Ubuntu/Debian
 * Softether Auto Install Script for multi platforms updated version
 #Latest Softether Server Version for May 2018 v4.28-9669-beta-2018.09.11
 * Debian 8 (jessie) <b>(Not compatible for Debian 9 (stretch) x64 - compilation error)</b>
 * Ubuntu 14, 15, 16 x64 <b>(Not compatible for Ubuntu 17 and 18 x64 - compilation error)</b>
 
-# Buy ready to go and Ddos protected vpns at https://ghostvpn.co
+# Buy ready to go and Ddos protected vpns at https://ghostsecurityvpn.com/
 The best gaming vpns on the market, we sale gaming vpns with top ddos protection.
 for just £3.99 you have access to over 40 locations from OVH, NFO, BLAZIN and many more.
 
